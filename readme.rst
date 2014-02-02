@@ -4,12 +4,13 @@
 .. _wyrm: http://www.github.com/snide/wyrm/
 .. _grunt: http://www.gruntjs.com
 .. _node: http://www.nodejs.com
+.. _cactus: https://github.com/koenbok/Cactus
 
 ****************************
 Cactus starter site for Wyrm
 ****************************
 
-This is a boilerplate for building cactus sites using my wyrm_ frontend.
+This is a boilerplate for building cactus_ sites using my wyrm_ frontend.
 It includes bower_, grunt_ and dependency configs as well as a basic
 compass_ file.
 
