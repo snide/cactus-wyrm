@@ -1,0 +1,21 @@
+{
+  "name": "cactus-wyrm",
+  "version": "0.0.0",
+  "authors": [
+    "Dave Snider <dave.snider@gmail.com>"
+  ],
+  "description": "Starter layout for cactus / wyrm projects",
+  "license": "MIT",
+  "homepage": "http://www.github.com/snide/cactus-wyrm",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "wyrm": "~0.0.x"
+  }
+}
